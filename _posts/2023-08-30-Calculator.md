@@ -28,7 +28,7 @@ type: hacks
         <button onclick="setattributes('+')">+</button>
          <button onclick="setattributes('-')">-</button>
         <button onclick="setattributes('*')">*</button>
-        <button onclick="setattributes('/')">/</button>
+        <button onclick="setattributes('/')">/</button>n
         <button onclick="clearDisplay()">C</button> <!-- This is a way to clear, how it works is when this button is clicked the clear display function is called it then sets the value displayed to an empty string clearing any previous inputs, then it gets the value by id and clear all of the attributes from the calculator.  -->
         <button onclick="calculate()">=</button> <!-- This is a single-line HTML comment -->
     </div>
