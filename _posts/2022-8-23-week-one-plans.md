@@ -3,7 +3,7 @@ toc: true
 comments: false
 layout: post
 title: Week I Plans
-description: xx
+description: plans for the week
 type: plans
 courses: { csa: {week: 1} }
 permalink: /week-1-plans
